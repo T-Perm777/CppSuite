@@ -28,3 +28,9 @@ g++ src/tool_folder/main.cpp src/tool_folder/tool.cpp -o build/tool_name
 
 
 ## **More tools coming (at some point)!**
+
+
+
+### THIS SOFTWARE IS PROTECTED UNDER THE MIT LICENSE
+
+- **Check the LICENSE file for the full licensing and permissions.**
