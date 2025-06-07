@@ -18,6 +18,8 @@ g++ src/tool_folder/main.cpp src/tool_folder/tool.cpp -o build/tool_name
 
 *Replace 'tool_folder' and 'tool.cpp' with the name of the tool you're building. On the output of the command, replace tool_name with whatever you want the output .exe to be called--the .exe extension is automatically added on by G++.*
 
+**Make sure to add a folder named ```build``` before running the command, otherwise CMD/Powershell will throw an error**
+
 #### **Optional, but rccommended**
 
 - You can add this to your system's PATH to make it work without changing directory into the build folder.
