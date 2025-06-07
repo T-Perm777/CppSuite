@@ -1,0 +1,9 @@
+#stop git from pushing things we don't want it to
+#the build directory with the finished exe(s)
+build/
+
+#vscode settings
+.vscode/
+
+#executables
+*.exe
