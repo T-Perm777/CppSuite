@@ -1,5 +1,5 @@
 //linking the .cpp and the .h
-#include "getOS_Type.h"
+#include "OSInfo.h"
 //There are a few things we need to include, as you can see
 #include <array>
 #include <memory>
