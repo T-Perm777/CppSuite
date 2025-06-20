@@ -10,6 +10,8 @@ Follow these steps to build and use these C++ tools.
 
 ### Building
 
+#### If you want the precompiled binaries (executable files), go [here](https://github.com/T-Perm777/CppSuite/releases).
+
 - First, cd into the folder that has the .cpp files (like src\OSInfo, src\RandomPassGen, etc.)
 - Then run the command `g++ *.exe -o filename.exe`. Replace filename with whatever you would like to name the executable.
 
